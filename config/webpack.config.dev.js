@@ -163,9 +163,8 @@ module.exports = {
             use: [
               require.resolve('style-loader'),
               {
-                loader: require.resolve('css-loader'),
+                loader: 'css-loader',
                 options: {
-                  importLoaders: 1,
                   modules: true,
                   localIdentName: '[name]__[local]__[hash:base64:5]'
                 },
