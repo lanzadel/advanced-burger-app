@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7def4fbe-d767-4700-9e80-1417d33e6512" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="7def4fbe-d767-4700-9e80-1417d33e6512" name="Default" comment="Just Commit">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Checkout/ContactData/ContactData.js" afterPath="$PROJECT_DIR$/src/containers/Checkout/ContactData/ContactData.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,10 +28,11 @@
       <file leaf-file-name="ContactData.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/containers/Checkout/ContactData/ContactData.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="86" column="28" lean-forward="false" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="28" />
+            <state relative-caret-position="175">
+              <caret line="134" column="10" lean-forward="false" selection-start-line="134" selection-start-column="10" selection-end-line="134" selection-end-column="10" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
+                <element signature="e#374#3069#0" expanded="false" />
                 <element signature="e#398#802#0" expanded="false" />
                 <element signature="e#828#1229#0" expanded="false" />
                 <element signature="e#1256#1739#0" expanded="false" />
@@ -303,12 +304,20 @@
       <option name="presentableId" value="Default" />
       <updated>1564176254688</updated>
       <workItem from="1564176256788" duration="1489000" />
-      <workItem from="1564670880114" duration="34162000" />
+      <workItem from="1564670880114" duration="34397000" />
     </task>
+    <task id="LOCAL-00001" summary="Just Commit">
+      <created>1564936114919</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564936114919</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74994000" />
+    <option name="totallyTimeSpent" value="75229000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
@@ -338,6 +347,12 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Just Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Just Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -783,10 +798,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/containers/Checkout/ContactData/ContactData.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="86" column="28" lean-forward="false" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="28" />
+        <state relative-caret-position="175">
+          <caret line="134" column="10" lean-forward="false" selection-start-line="134" selection-start-column="10" selection-end-line="134" selection-end-column="10" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#374#3069#0" expanded="false" />
             <element signature="e#398#802#0" expanded="false" />
             <element signature="e#828#1229#0" expanded="false" />
             <element signature="e#1256#1739#0" expanded="false" />
